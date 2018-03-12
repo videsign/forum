@@ -3,7 +3,6 @@
     "description": "Laravel 5.5 forum",
     "version": "0.0.1", 
     "time": "2018-03-12",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Audric Moisson",
