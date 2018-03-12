@@ -1,6 +1,14 @@
 {
     "name": "vikingdesign/forum",
     "description": "Laravel 5.5 forum",
-    "minimum-stability": "dev",
-    "require": {}
+    "version": "0.0.1", 
+    "time": "2018-03-12",
+    "authors": [
+        {
+            "name": "Audric Moisson",
+            "email": "a.moisson@videsign.fr",
+            "homepage": "http://videsign.fr",
+            "role": "Developer"
+        }
+    ]
 }
