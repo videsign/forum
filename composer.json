@@ -1,0 +1,6 @@
+{
+    "name": "vikingdesign/forum",
+    "description": "Laravel 5.5 forum",
+    "minimum-stability": "dev",
+    "require": {}
+}
